@@ -5,7 +5,7 @@ const inquirer = require("inquirer");
 const path = require("path");
 const fs = require("fs");
 
-const outputPath = path.resolve(__dirname, "output", "team.html");
+const outputPath = path.join(__dirname, "output", "team.html");
 
 const render = require("./lib/htmlRenderer");
 
