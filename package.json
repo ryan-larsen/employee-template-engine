@@ -1,0 +1,30 @@
+{
+  "name": "employee-template-engine",
+  "version": "1.0.0",
+  "description": "This is a way to generate a webpage that displays team information of a workplace",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "inquirer": "^7.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-larsen/employee-template-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-larsen/employee-template-engine/issues"
+  },
+  "homepage": "https://github.com/ryan-larsen/employee-template-engine#readme"
+}
